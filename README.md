@@ -14,22 +14,3 @@ import numpy as np
 # Load csv files
 schools = 'Resources/schools_complete.csv'
 students = 'Resources/students_complete.csv'
-
-# Read school file with pandas
-school_df = pd.read_csv(schools)
-
-# Check columns of schools data 
-school_df.columns
-
-# Rename columns in school dataset
-school = school_df.rename(columns={'name' : 'School','type' : 'Type','size' : 'Size','budget' : 'Budget'})
-school.head()
-
-<style> .dataframe thead tr:only-child th { text-align: right; }
-.dataframe thead th {
-    text-align: left;
-}
-
-.dataframe tbody tr th {
-    vertical-align: top;
-}
