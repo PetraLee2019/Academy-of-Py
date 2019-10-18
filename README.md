@@ -1,5 +1,5 @@
-## Academy of Py - Background
-Analyze the district-wide standardized test result and aggregate the data to and showcase obvious trends in school performance.
+# Academy of Py
+Analyze the district-wide standardized test results and aggregate the data to showcase obvious trends in school performance.
 ## Analysis
 - Top performing schools are mostly charter schools. There is a significant difference in overall passing rates of the charter and district schools - Overall passing rate : Charter -> 91% & District -> 71%
 - As per the District and School Summary, students are doing better in reading rather than math. But the overall passing rate is not very satisfactory for all the schools. Going forward, more attention is required for getting better scores in Math to improve the overall scores and performance of the schools.
