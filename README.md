@@ -7,14 +7,7 @@ Analyze the district-wide standardized test results and aggregate the data to sh
 - The overall performance of students is very good from the schools which have less budget (<585) as compared to the schools which are spending more on students.
 ## Setup
 ![Alt tag](https://github.com/PetraLee2019/Academy-of-Py/blob/master/Images/Setup.png?raw=true)
-## Top and Bottom Performing Schools 
 ![Alt tag](https://github.com/PetraLee2019/Academy-of-Py/blob/master/Images/Top%20and%20Bottom%20Performing%20Schools.png?raw=true)
-### Scores by School Spending
 ![Alt tag](https://github.com/PetraLee2019/Academy-of-Py/blob/master/Images/Scores%20by%20School%20Spending.png?raw=true)
-## Scores by School Size
 ![Alt tag](https://github.com/PetraLee2019/Academy-of-Py/blob/master/Images/Scores%20by%20School%20Size.png?raw=true)
-## Scores by School Type
 ![Alt tag](https://github.com/PetraLee2019/Academy-of-Py/blob/master/Images/Scores%20by%20School%20Type.png?raw=true)
-## Tips
-import pandas as pd
-import numpy as np
